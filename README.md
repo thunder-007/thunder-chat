@@ -1,2 +1,2 @@
 # thunder-chat
-lan chat room
+lan chat room python sockets
